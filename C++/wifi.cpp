@@ -1,3 +1,6 @@
+// Codice trovato su github modificato per lavorare in locale italiano 
+
+
 #include <iostream>
 #include <sstream>
 #include <fstream>
